@@ -1,10 +1,10 @@
 {
   "name": "atic-typescript",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "ATIC - Automated Tests Indicators Collector\n",
+  "author": "Mirete Benoit <ben@mirete.fr>",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
